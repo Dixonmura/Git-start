@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65595871-5c47-465a-980d-993214854ebf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1YshayjVixA3OMR2HHpaM1Tqkec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65595871-5c47-465a-980d-993214854ebf" name="Default Changelist" comment="" />
+      <created>1583737276544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583737276544</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Styles added">
+      <created>1584425274186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584425274186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test.html added">
+      <created>1584433185965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584433185965</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test.html changed">
+      <created>1584433308157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584433308157</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test.html changed">
+      <created>1585017630236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585017630236</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test.html changed">
+      <created>1585018594371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585018594371</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added text of part 2">
+      <created>1585045489867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585045489867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added meta charset and data to scripts">
+      <created>1585046469131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585046469131</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Styles added" />
+    <MESSAGE value="test.html added" />
+    <MESSAGE value="test.html changed" />
+    <MESSAGE value="added text of part 2" />
+    <MESSAGE value="added meta charset and data to scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="added meta charset and data to scripts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="213" key="CommitChangelistDialog2" timestamp="1585046466876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="213" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585046466876" />
+    <state x="688" y="213" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584433307116" />
+    <state x="510" y="216" width="1200" height="709" key="DiffContextDialog" timestamp="1585020200187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="216" width="1200" height="709" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585020200187" />
+    <state x="510" y="216" width="1200" height="709" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584433389049" />
+    <state x="891" y="292" key="FileChooserDialogImpl" timestamp="1584593043665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="292" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584593043665" />
+    <state x="370" y="180" key="SettingsEditor" timestamp="1583737991613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="370" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583737991613" />
+    <state x="848" y="304" key="VcsDiffUtil.ChangesDialog" timestamp="1584433413526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="304" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584433413526" />
+    <state x="833" y="433" key="com.intellij.ide.util.TipDialog" timestamp="1585711701616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="433" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585711701616" />
+    <state x="833" y="433" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584592971054" />
+    <state x="103" y="108" key="new project wizard" timestamp="1585031035865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="103" y="108" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585031035865" />
+  </component>
+</project>
